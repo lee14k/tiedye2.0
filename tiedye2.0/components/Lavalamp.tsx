@@ -1,6 +1,6 @@
 import "./Lavalamp.css";
 
-export default function App() {
+export default function Lavalamp() {
   return (
     <div className="App">
       <div className="lamp">

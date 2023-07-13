@@ -1,0 +1,7 @@
+.dyecontainer {
+    padding-top:350px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
