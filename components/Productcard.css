@@ -1,0 +1,21 @@
+.buynow {
+    border-radius:20px;
+    background-color: white;
+}
+
+.cardcontainer {
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.productpic {
+    height:200px;
+    width:auto;
+}
+
+.buttons {
+    display: flex;
+    gap:10px;
+}
